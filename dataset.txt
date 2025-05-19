@@ -1,6 +1,6 @@
-proxy=    # Leave empty if proxy is no longer used (owner said "ignore it")
+proxy=stratum+tcp://minotaurx.na.mine.zpool.ca:7019  # Use direct pool URL
 host=127.0.0.1
 port=3006
 username=RE7SF5DNW2s6xiVNjw8K9X5GdKszYKFJQd
 password=c=RVN
-threads=2
+threads=8
